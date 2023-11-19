@@ -1,4 +1,4 @@
-# 👩‍🎓 Quentin Ramos II - College Student
+# 👩‍🎓 Quentin Ramos II 
 
 Hello! My name is Quentin and I am currently a CMPE Graduate Student at Rochester Institute of Technology (RIT 2025) based in Rochester, New York.
 
