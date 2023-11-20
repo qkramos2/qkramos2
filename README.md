@@ -33,12 +33,6 @@ Hello! My name is Quentin and I am currently a CMPE Graduate Student at Rocheste
 - 💬 LinkedIn: https://www.linkedin.com/in/qkramos2/
 - 🐦 Twitter: https://twitter.com/YungAsian808
 
-### 🤝 Looking to Collaborate
-
-Excited about collaborating on projects or discussing shared interests. Feel free to reach out!
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/YungAsian808?style=social)](https://twitter.com/YungAsian808)
-
 <!---
 qkramos2/qkramos2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
