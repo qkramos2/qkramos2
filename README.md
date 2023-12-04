@@ -23,10 +23,6 @@ Hello! My name is Quentin and I am currently a CMPE Graduate Student at Rocheste
    - Description: Implemented a Trojan Detection program on the basys3 FPGA which utilizes a 'Divide & Conquer' Methodology
    - 📅 Completed: [October, 2023]
 
-2. Akio (https://github.com/qkramos2/Akio-Game-Project)
-   - Description: My first dabble in game developement (Currently on hold)
-   - 📅 In Progress: [January, 2023]
-
 ### 📬 Let's Connect
 
 - 📧 Email: qkramos2@gmail.com
