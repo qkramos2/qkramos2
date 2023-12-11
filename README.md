@@ -23,7 +23,7 @@ Hello! My name is Quentin and I am currently a CMPE Graduate Student at Rocheste
    - Description: Implemented a Trojan Detection program on the basys3 FPGA which utilizes a 'Divide & Conquer' Methodology
    - 📅 Completed: [October, 2023]
 
-2. PUF Authentication Module (https://github.com/qkramos2/puf-authentication-protocol)
+2. PUF Authentication Module (https://github.com/qkramos2/PUF-Authentication-Protocol)
    - Description: Worked with a partner to create an authentication module with a hybrid PUF architecture
    - 📅 Completed: [December, 2023]
 
