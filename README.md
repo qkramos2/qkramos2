@@ -31,7 +31,6 @@ Hello! My name is Quentin and I am currently a CMPE Graduate Student at Rocheste
 
 - 📧 Email: qkramos2@gmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/qkramos2/
-- 🐦 Twitter: https://twitter.com/YungAsian808
 
 <!---
 qkramos2/qkramos2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
