@@ -1,11 +1,11 @@
 # 🧑🏽‍🎓 Quentin Ramos II 
 
-Hello! My name is Quentin and I am currently a CMPE Graduate Student at Rochester Institute of Technology (RIT 2025) based in Rochester, New York.
+Hello! My name is Quentin and I am currently a CMPE Graduate Student at Rochester Institute of Technology (RIT 2025).
 
 ### 🌱 About Me
 
-- 📚 I'm passionate about Hardware Security!
-- 🌐 Exploring new technologies and eager to learn!
+- 📚 Passions: Hardware Security and Embedded Programming
+- 🌐 Currently learning: TinyML (Machine Learning on microcontrollers)
 
 ### 🎓 Education
 
@@ -14,10 +14,10 @@ Hello! My name is Quentin and I am currently a CMPE Graduate Student at Rocheste
 
 ### 💻 Skills
 
-- Programming Languages: Python, Java, C, C++, C#, TCL, HDL, Verilog
-- Tools: VSCode, Pycharm, IntelliJ, Xilinx Vivado, Altera Quartus
+- Programming Languages: C, C++, C#, ARM ASM, Python, Java, TCL, VHDL, Verilog
+- Tools: STM32Cube, Visual Studio, Vivado, Xilinx ISE & Vitis, Pycharm, IntelliJ,
 
-### 📚 Projects
+### 📚 Projects (Currently outdated and will update upon graduation)
 
 1. Trojan Detection (https://github.com/qkramos2/Trojan-Detection-Project)
    - Description: Implemented a Trojan Detection program on the basys3 FPGA which utilizes a 'Divide & Conquer' Methodology
