@@ -9,8 +9,7 @@ Hello! My name is Quentin and I am currently a CMPE Graduate Student at Rocheste
 
 ### 🎓 Education
 
-- 🏫 Rochester Institute of Technology, [BS/MS]
-- 📆 Expected Graduation: May 2025
+- 🏫 Rochester Institute of Technology 2025, [BS/MS]
 
 ### 💻 Skills
 
